@@ -1,4 +1,4 @@
-# Synthetic Pointcloud Object Dataset V.0.90
+# Synthetic Pointcloud Object Dataset V.1.90
 
 ###### [Interactive Robot Learning (IRL) lab](https://www.ai.rug.nl/irl-lab/)
 
