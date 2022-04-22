@@ -1,5 +1,5 @@
 ## synthetic_pointcloud_object_dataset
-###### [Interactive robot learning lab](https://www.ai.rug.nl/irl-lab/)
+###### [Interactive Robot Learning (IRL) lab](https://www.ai.rug.nl/irl-lab/)
 
 <p align="center">
   <img src="imgs/overview.png" width="800" title="">
