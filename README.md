@@ -5,5 +5,5 @@
   <img src="imgs/overview.png" width="800" title="">
 </p>
 <p align="center">
-  Synthetic point cloud object dataset: (top-row) ninety synthetic objects in Gazebo environment; (lower-row) our simulation environment consisting of a Kinect camera and a table; To capture partial views of the target object, we rotate and move the object in a rose trajectory in front of the camera.
+  Synthetic point cloud object dataset: (left) ninety synthetic objects in Gazebo environment; (center) our simulation environment consisting of a Kinect camera and a table; To capture partial views of the target object, we rotate and move the object in a rose trajectory in front of the camera; (right) As shown in this Rviz image, we track the pose of the target object and record partial views of the object (point cloud format -- *.pcd)
 </p>
