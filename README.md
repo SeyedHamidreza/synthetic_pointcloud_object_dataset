@@ -12,6 +12,12 @@
 
 We developed a simulation environment in Gazebo to record a large synthetic object dataset. Towards this goal, we considered 90 simulated household objects, imported from different resources (e.g., the YCB dataset, Gazebo repository, and etc). It should be noted that this is a very challenging dataset for object recognition tasks since we include both basic-level (i.e., objects that are not similar to each other such as apple vs. book) and fine-grained (the object that are very similar together spoon vs. fork) object categories. Furthermore, there are several objects with the same geometry, but different textures, and vice versa. In order to extract partially visible point clouds of an object, we move the object along a rose trajectory in front of the camera and record 300 views of the object. The obtained 27000 partial views are then organized into 90 object categories. 
 
+Here you can find some example objects that have been segmented from the scene:
+
+<p align="center">
+  <img src="imgs/sample_of_objects.png" width="800" title="">
+</p>
+
 ## Citation
 
 Please adequately refer to the paper any time this dataset is being used. If you do publish a paper where this dataset helped your research, we encourage you to cite the following paper in your publications:
