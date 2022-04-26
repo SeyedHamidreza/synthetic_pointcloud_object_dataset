@@ -15,7 +15,7 @@ We developed a simulation environment in Gazebo to record a large synthetic obje
 Here you can find some example objects that have been segmented from the scene:
 
 <p align="center">
-  <img src="imgs/sample_of_objects.png" width="800" title="">
+  <img src="imgs/sample_of_objects.png" width="500" title="">
 </p>
 
 ## Citation
