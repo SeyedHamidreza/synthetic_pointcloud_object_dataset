@@ -25,9 +25,9 @@ Please adequately refer to the paper any time this dataset is being used. If you
 ```bib
 @ARTICLE{synthetic_pointcloud_dataset,
   author={Kasaei, Hamidreza and Xiong, Songsong},
-  journal={}, 
+  journal={Hamidreza Kasaei, and Songsong Xiong, "Lifelong Ensemble Learning based on Multiple Representations for Few-Shot Object Recognition", arXiv preprint arXiv:2205.01982 (2022)}, 
   title={Lifelong Ensemble Learning based on Multiple Representations for Few-Shot Object Recognition}, 
   year={2022},
-  doi={}
+  doi={https://doi.org/10.48550/arXiv.2205.01982}
 }
 ```
